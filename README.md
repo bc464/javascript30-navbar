@@ -32,3 +32,7 @@ This challenge is best coupled with Day 22 of Wes Bos's [Javascript30](https://j
 
 https://fonts.google.com/specimen/Inter
 # javascript30-navbar
+
+#The end result:
+![Screenshot 2022-04-09 at 22-52-43 JavaScript3--Navbar](https://user-images.githubusercontent.com/82536545/162591334-d1bf4024-852a-4ed0-aaf0-c6bd206afeee.png)
+
